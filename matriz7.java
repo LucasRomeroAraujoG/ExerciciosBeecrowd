@@ -1,8 +1,6 @@
-package curso_Programacao;
-
 import java.util.Scanner;
 
-public class Main {
+public class matriz7 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
